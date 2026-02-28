@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER - Reemplaza esta URL con tu imagen banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20TuNombre!%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20|%20Tu%20País&descAlignY=58&descSize=18" width="100%"/>
+<img src="imagen.png" width="100%"/>
 
 </div>
 
