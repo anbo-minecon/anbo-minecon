@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- BANNER - Reemplaza esta URL con tu imagen banner -->
-<img src="imagen.png" width="100%"/>
+<!-- BANNER -->
+<img src="imagen.png" width="800"/>
 
 </div>
 
@@ -25,7 +25,7 @@ estado:    "Siempre aprendiendo..."
 - 🚀 Apasionado por el desarrollo de software
 - 💼 Trabajo con tecnologías **web**, **backend** y **bases de datos**
 - 🌱 Actualmente aprendiendo nuevas tecnologías
-- ⚡ Me encanta resolver problemas con logica y de dicación
+- ⚡ Me encanta resolver problemas con lógica y dedicación
 - 📫 Contáctame: **adaniesbasilio@gmail.com**
 
 <br clear="right"/>
@@ -95,11 +95,6 @@ estado:    "Siempre aprendiendo..."
 
 ### 📊 Estadísticas de GitHub
 
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=anbo-minecon&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
@@ -110,7 +105,7 @@ estado:    "Siempre aprendiendo..."
 
 ### 🌐 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](hhttps://www.linkedin.com/in/adanies-basilio-49251a3b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adanies-basilio-49251a3b2/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@anbominecom)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anbo_minecon/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adaniesbasilio@gmail.com)
